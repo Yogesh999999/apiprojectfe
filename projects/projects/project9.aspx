@@ -226,7 +226,7 @@
                     <thead>
                         <tr>
                             <th></th>
-                            <th>name</th>
+                            <th>Name</th>
                             <th>Last Name</th>
                             <th>Email</th>
                             <th>Phone</th>
