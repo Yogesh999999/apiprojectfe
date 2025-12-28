@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\scafoldold\\scafoldold\\scafoldold.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\projects\\projects\\projects.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

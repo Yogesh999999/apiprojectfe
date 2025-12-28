@@ -1,0 +1,6 @@
+@scafoldold_HostAddress = http://localhost:5171
+
+GET {{scafoldold_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
